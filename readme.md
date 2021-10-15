@@ -1,2 +1,2 @@
 # blog
-This my a bogging website.
+This my first blogging website.
